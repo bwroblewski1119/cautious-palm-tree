@@ -7,9 +7,11 @@
        * GitHub username 2: Chaly - cxiong56
        * GitHub username 3: Henry - hwieland
        * GitHub username 4: Khai - khaibin97
-       * GitHub username 5:
+       * GitHub username 5: Amber - awestlund
    * When did you complete this exercise? 
+   2/23/18
    * How long did it take your team to complete this exercise? 
+   1 hour
 
 ## Table of Contents
 
