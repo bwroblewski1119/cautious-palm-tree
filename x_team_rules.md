@@ -17,7 +17,9 @@ and missed deadlines.
 
 
 ## How we will communicate difficulties with a task assigned to us
+All will use GroupMe.
 The team must have frequent, effective communication.
+Commenting changes in GitHub when commiting edits to the group's projects.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
