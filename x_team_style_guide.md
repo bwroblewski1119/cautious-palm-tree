@@ -11,15 +11,14 @@ CONSTANT_CASE for constants
 UpperCamelCase for classes
 
 ### Examples
-* interfaces
-* classes
-* exception types
-* fields
-* methods
-* parameters
-* local variables
-* instance constants
-* class constants
+* SampleInterface
+* SampleClass
+* SampleExceptionType
+* sampleField
+* sampleMethod()
+* (int sampleParam)
+* sampleLocal
+* SAMPLE_CONSTANT
 
 ## Commenting style for public and private members of a class or interface:
 
