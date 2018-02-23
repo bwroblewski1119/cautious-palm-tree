@@ -22,7 +22,7 @@ UpperCamelCase for classes
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
+Javadoc for classes and methods. Inline when necessary.
 
 ### Examples
 
