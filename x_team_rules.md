@@ -16,12 +16,12 @@ and missed deadlines.
 
 
 
-## How will will communicate difficulties with a task assigned to us
-
+## How we will communicate difficulties with a task assigned to us
+The team must have frequent, effective communication.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+The team must be willing to share its resources (Knowledge/Time).
 
 
 
