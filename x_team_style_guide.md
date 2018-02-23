@@ -1,6 +1,6 @@
 # X-Team 21 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+If the code looks consistent, its probably fine.
 
 ## Naming conventions
 
