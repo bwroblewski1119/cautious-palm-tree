@@ -5,7 +5,9 @@
 ## Naming conventions
 
 lowerCamelCase for variables
+
 CONSTANT_CASE for constants
+
 UpperCamelCase for classes
 
 ### Examples
