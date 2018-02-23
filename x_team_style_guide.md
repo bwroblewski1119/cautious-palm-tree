@@ -26,13 +26,24 @@ UpperCamelCase for classes
 
 ### Examples
 
-* classes
-* fields
-* constructors
-* methods
+* classes (Multiline Javadoc)
+* fields (Inline Comments)
+* constructors (Multiline Javadoc)
+* methods (Multiline Javadoc)
 * coding style (brackets, horizontal, and vertical spacing) for:
-  * if statements
-  * switch statement
-  * while loops
-  * for loops
-  * enhanced for loops
+  * if (condition) {
+       //Code goes here
+    }
+  * switch (condition) {
+       case 1:
+       case 2:
+    }
+  * while (condition) {
+       //Code goes here
+    }
+  * for (int i = 0; i < 10; i++) {
+       //Code goes here
+    }
+  * for (String str : array) {
+       //Code goes here
+    }
