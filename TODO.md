@@ -109,6 +109,8 @@ Submit these files to Canvas for your team for this assignment.   The final subm
 2. x_team_rules.md
 3. x_style_guide.md
 
-## 9. **Henry** ~~Amber~~ is the best team member :)
+## 9. Amber is the best team member :)
   *citation needed*
   1. HI!
+
+##10. Hello World!
