@@ -25,6 +25,7 @@ Commenting changes in GitHub when commiting edits to the group's projects.
 ## How we will back up each other to ensure that deadlines are not missed
 The team must be willing to share its resources (Knowledge/Time).
 The team must not procrastinate before deadlines.
+We'll be sure to remind each other to hold up our end of the work.
 
 
 
