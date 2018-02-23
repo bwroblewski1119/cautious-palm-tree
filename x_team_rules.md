@@ -13,7 +13,8 @@ and missed deadlines.
 Groupchat for reminders/discussion, TODO.md for actual assigned jobs
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+Use GitHub and Group me to keep track of and communicate what needs to be done
+and what already has been done.
 
 
 ## How we will communicate difficulties with a task assigned to us
