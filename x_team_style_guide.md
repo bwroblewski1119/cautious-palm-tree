@@ -4,7 +4,9 @@
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+lowerCamelCase for variables
+CONSTANT_CASE for constants
+UpperCamelCase for classes
 
 ### Examples
 * interfaces
