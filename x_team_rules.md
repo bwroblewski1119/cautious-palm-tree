@@ -10,11 +10,11 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+A TODO.md on the repository, and a groupchat for reminders.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+Weekly checkins and groupchat checkins a few times a week.
 
 ## How we will communicate difficulties with a task assigned to us
 All will use GroupMe.
