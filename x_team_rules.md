@@ -14,7 +14,7 @@ A TODO.md on the repository, and a groupchat for reminders.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-Weekly checkins and groupchat checkins a few times a week.
+Weekly groupchat checkins to see how everybody is progressing with their assigned tasks.
 
 ## How we will communicate difficulties with a task assigned to us
 All will use GroupMe.
